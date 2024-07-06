@@ -6,7 +6,7 @@ Welcome to our news aggregation platform! Stay updated with the latest headlines
 
 ## Tech Stack
 
-**Client:** React, Context, TailwindCSS houdaa okk
+**Client:** React, Context, TailwindCSS houdaa okk sari
 
 **Server:** Node, Express, MongoDB
 
